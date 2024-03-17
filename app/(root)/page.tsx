@@ -1,9 +1,9 @@
 const Home = () => {
   return (
     <div>
-      <p className="">Home</p>
+      <p className=""></p>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
